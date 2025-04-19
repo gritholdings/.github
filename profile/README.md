@@ -2,7 +2,8 @@
 
 Explore our diverse portfolio:
 
-- Generative AI: [Generative AI](https://github.com/gritholdings/python-examples)
-- Software: [Grit Holdings Repositories](https://github.com/orgs/gritholdings/repositories)
-- Documentation: [Documentation](https://gritholdings.gitbook.io)
-- Website: [meetgrit.com](https://www.meetgrit.com)
+- [AI Agent Platform (Backend)](https://github.com/gritholdings/django-apprunner-chatbot)
+- [AI Agent Webapp (Frontend)](https://github.com/gritholdings/amplify-next-chatbot)
+- [Generative AI Examples](https://github.com/gritholdings/python-examples)
+- [Other Software Solutions](https://github.com/gritholdings)
+- [Our Website](https://www.meetgrit.com)
